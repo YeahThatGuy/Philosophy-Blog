@@ -1,0 +1,17 @@
+#commentArea {
+	width: 450px;
+	height: 70px;
+	resize: none;
+}
+
+#commentButton {
+	background-color: #77797c;
+	width: 100px;
+	height: 30px;
+	border: 0 none;
+	font-size: 14px;
+}
+
+#commentButton:hover {
+	background-color: #66686b;
+}

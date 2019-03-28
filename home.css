@@ -1,0 +1,46 @@
+body {
+	padding-top: 65px;
+}
+
+.home {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.btn-post {
+	color: #f2f5f9;
+	background-color: #aa3f27;
+	margin-top: -0.25em;
+	padding: 5px;
+	padding-top: 1.3px;
+}
+
+.btn-post:hover {
+	color: #f2f5f9;
+	background-color: #c94c30;
+}
+
+.customBar {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+}
+
+.center_div {
+	margin: 0 auto;
+	width: 50%;
+}
+
+html {
+	height: 100%;
+}
+
+.organiseForm {
+	-webkit-padding-before: 90px;
+}
+
+.textLimit {
+	width: 400px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
